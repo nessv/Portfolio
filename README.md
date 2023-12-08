@@ -24,9 +24,10 @@ I've had the opportunity to be part of this amazing startup project, built in Sw
 This app has been a passion project of mine over the past couple years. Magic Budget is a Disney Parks budget planning app. Me and my husband absolutely love going to the parks but we always find ourselves coming over budget (too many churros). I built this app to help solve this problem! I found the estimated price for many of the popular items in the parks so users can quickly budget for what they might buy on their trip. 
 
 <p align="center">
-<!-- <img src="https://user-images.githubusercontent.com/76922883/224447663-1946a1d5-0e7d-45bb-ba4f-48eb68924337.PNG" width="200"/> -->
-<!-- <img src="https://user-images.githubusercontent.com/76922883/224447492-c8163fc6-7d5d-416c-913c-f9d9e0295392.PNG" width="200"/> -->
-<!-- <img src="https://user-images.githubusercontent.com/76922883/224447581-6896ca04-6ffe-4a87-8c9e-a45809ad1798.PNG" width="200"/> -->
+<img src="https://github.com/nessv/Portfolio/assets/28272898/6bf4480e-0e7e-4d1a-86a0-308d0d5571b4" width="200"/>
+<img src="https://github.com/nessv/Portfolio/assets/28272898/66ecaa3e-1267-4d46-b9b4-1e7ab8fa185f" width="200"/>
+<img src="https://github.com/nessv/Portfolio/assets/28272898/338c7d7f-cdb0-488b-a5f6-6d1230a08242" width="200"/>
+<img src="https://github.com/nessv/Portfolio/assets/28272898/61382a6a-7917-4b27-954d-149523ced134" width="200"/>
 </p>
 
 **Tech Used**
@@ -37,11 +38,6 @@ This app has been a passion project of mine over the past couple years. Magic Bu
 
 ## Saspy Courier
 A package-tracking application, Saspy, designed to empower users in managing their packages efficiently. The app enables users to track package status, schedule deliveries, add delivery addresses, and utilize smart lockers. Additionally, it supports secure payments via platforms like PayPal. The initial version was released for native iOS using UIKit, and later migrated to Flutter, with BLoC as the chosen state management solution.
-
-<p align="center">
-<!-- <img src="https://user-images.githubusercontent.com/76922883/205193319-5f8c7225-9f77-4baa-89e0-2ceab8b6be13.png" width="200"/> -->
-<!-- <img src="https://user-images.githubusercontent.com/76922883/205193358-5708bcd4-84ff-4f94-b48d-5f7ed55456de.png" width="200"/> -->
- </p>
  
 **Tech Used**
 - 📱 UIKit (iOS)
@@ -52,12 +48,6 @@ A package-tracking application, Saspy, designed to empower users in managing the
 
 ## Regional Bank
 Summary Here
-<p align="center">
-<!-- <img src="https://user-images.githubusercontent.com/76922883/205219162-5ec13057-2fa1-46a4-a609-f434046c5ca1.png" width="200"/> -->
-<!-- <img src="https://user-images.githubusercontent.com/76922883/205219193-dad363b1-394f-4f57-9257-173f2fe1549f.png" width="200"/> -->
-<!-- <img src="https://user-images.githubusercontent.com/76922883/205219264-1e7e1406-f70e-4372-a69e-0c815bbea49a.png" width="200"/> -->
-<!-- <img src="https://user-images.githubusercontent.com/76922883/205219336-758788c0-77a8-4433-adb3-84da57a9ffee.png" width="200"/> -->
- </p>
  
 **Tech Used**
 - 📱 UIKit (iOS)
@@ -71,15 +61,6 @@ Summary Here
 
 Yet another iOS Mobile Banking Application.
 
-<p align="center">
-<!-- <img src="https://user-images.githubusercontent.com/76922883/209883943-03fc014d-778a-429d-8817-79d5a665ba0d.jpg" width="200"/>
-<img src="https://user-images.githubusercontent.com/76922883/209884023-aca50258-92ee-4dcf-89db-5e69ee6d3076.jpg" width="200"/>
-<img src="https://user-images.githubusercontent.com/76922883/209884047-f5b8bf5f-7ee5-43f1-bedc-6c7786197a13.jpg" width="200"/>
-<img src="https://user-images.githubusercontent.com/76922883/209884076-f3ebcd7b-5dc2-49c2-9762-83e50c19e102.jpg" width="200"/>
-<img src="https://user-images.githubusercontent.com/76922883/209884112-f3ad71cd-2fb7-4473-a1d3-8fbdb3c37a00.jpg" width="200"/>
-<img src="https://user-images.githubusercontent.com/76922883/209884150-6c2d5d16-c84d-475a-a797-b0f5b2288a41.mp4" width="200"/> -->
-</p>
-
 **Tech Used**
 - 📱 RxSwift (Reactive Programming)
 
@@ -87,18 +68,9 @@ Yet another iOS Mobile Banking Application.
 - 📸 Developed a payment module enabling users to make payments by scanning QR codes using the camera.
 - 🐛 Identified and resolved several bugs, contributing to improved app stability and performance.
 
-## Simple Bipolar
+## SIMPLe Bipolar
 
 The SIMPLe project focuses on harnessing the potential of mobile devices for monitoring individuals diagnosed with bipolar disorder. It introduces a user-friendly mobile application, developed collaboratively with both patients and specialists, aimed at continuous mood tracking and delivery of personalized psychoeducational messages to enhance stability.
-
-<p align="center">
-<!-- <img src="https://user-images.githubusercontent.com/76922883/209883943-03fc014d-778a-429d-8817-79d5a665ba0d.jpg" width="200"/>
-<img src="https://user-images.githubusercontent.com/76922883/209884023-aca50258-92ee-4dcf-89db-5e69ee6d3076.jpg" width="200"/>
-<img src="https://user-images.githubusercontent.com/76922883/209884047-f5b8bf5f-7ee5-43f1-bedc-6c7786197a13.jpg" width="200"/>
-<img src="https://user-images.githubusercontent.com/76922883/209884076-f3ebcd7b-5dc2-49c2-9762-83e50c19e102.jpg" width="200"/>
-<img src="https://user-images.githubusercontent.com/76922883/209884112-f3ad71cd-2fb7-4473-a1d3-8fbdb3c37a00.jpg" width="200"/>
-<img src="https://user-images.githubusercontent.com/76922883/209884150-6c2d5d16-c84d-475a-a797-b0f5b2288a41.mp4" width="200"/> -->
-</p>
 
 **Tech Used**
 - 📱 UIKit (iOS)
