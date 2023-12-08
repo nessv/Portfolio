@@ -2,9 +2,15 @@
  
 ### 👋 Hi! I'm a Senior iOS Engineer with 6+ years of experience. Here's some of my work
 
-## [Roar Social](https://apps.apple.com/us/app/roar-social/id1596602282)
-(Contract Work)
-I've had the opportunity to be part of this amazing startup project, built in SwiftUI. More info about the project itself can be found on their [website](https://www.roarsocial.com/).
+## Roar Social
+[`📲 Available on the App Store`](https://apps.apple.com/us/app/roar-social/id1596602282)
+<br> I've had the opportunity to be part of this amazing startup project, built in SwiftUI. More info about the project itself can be found on their [website](https://www.roarsocial.com/).
+
+<p align="center">
+ <img src="https://github.com/nessv/Portfolio/assets/28272898/972cd8ae-0360-43fd-9ecd-f9cfab45d762" width="200"/>
+ <img src="https://github.com/nessv/Portfolio/assets/28272898/02e4e651-6743-49a9-a09f-b3a286842918" width="200"/>
+ <img src="https://github.com/nessv/Portfolio/assets/28272898/ebbcc9aa-e6ee-4106-861c-1135e2fd1aa8" width="200"/>
+</p>
 
 **Tech Used**
 - 📱 SwiftUI
@@ -21,7 +27,8 @@ I've had the opportunity to be part of this amazing startup project, built in Sw
 - 🔗 Implemented deeplinking for seamless navigation.
 
 ## Eko
-This app has been a passion project of mine over the past couple years. Magic Budget is a Disney Parks budget planning app. Me and my husband absolutely love going to the parks but we always find ourselves coming over budget (too many churros). I built this app to help solve this problem! I found the estimated price for many of the popular items in the parks so users can quickly budget for what they might buy on their trip. 
+[`📲 Available on the App Store`](https://apps.apple.com/bo/app/eko-paraguay/id1545426761)
+<br>This app has been a passion project of mine over the past couple years. Magic Budget is a Disney Parks budget planning app. Me and my husband absolutely love going to the parks but we always find ourselves coming over budget (too many churros). I built this app to help solve this problem! I found the estimated price for many of the popular items in the parks so users can quickly budget for what they might buy on their trip. 
 
 <p align="center">
 <img src="https://github.com/nessv/Portfolio/assets/28272898/6bf4480e-0e7e-4d1a-86a0-308d0d5571b4" width="200"/>
@@ -37,7 +44,15 @@ This app has been a passion project of mine over the past couple years. Magic Bu
 - 🔐 Robust Encryption
 
 ## Saspy Courier
-A package-tracking application, Saspy, designed to empower users in managing their packages efficiently. The app enables users to track package status, schedule deliveries, add delivery addresses, and utilize smart lockers. Additionally, it supports secure payments via platforms like PayPal. The initial version was released for native iOS using UIKit, and later migrated to Flutter, with BLoC as the chosen state management solution.
+[`📲 Available on the App Store`](https://apps.apple.com/es/app/saspy-express/id1494039192)
+<br>A package-tracking application, Saspy, designed to empower users in managing their packages efficiently. The app enables users to track package status, schedule deliveries, add delivery addresses, and utilize smart lockers. Additionally, it supports secure payments via platforms like PayPal. The initial version was released for native iOS using UIKit, and later migrated to Flutter, with BLoC as the chosen state management solution.
+
+<p align="center">
+ <img src="https://github.com/nessv/Portfolio/assets/28272898/924e566b-1912-405e-a87a-e1ca6e39e372" width="200"/>
+ <img src="https://github.com/nessv/Portfolio/assets/28272898/0f68da50-e7af-4de7-a910-1cf66d160169" width="200"/>
+ <img src="https://github.com/nessv/Portfolio/assets/28272898/043f3bc4-9c5a-4b70-b6a6-27e2fc7959c1" width="200"/>
+ <img src="https://github.com/nessv/Portfolio/assets/28272898/d3fdc04b-f7fa-48a1-a56c-fabf9b721c27" width="200"/>
+</p>
  
 **Tech Used**
 - 📱 UIKit (iOS)
@@ -47,7 +62,8 @@ A package-tracking application, Saspy, designed to empower users in managing the
 - 💳 Secure Payment Platforms (e.g., PayPal)
 
 ## Regional Bank
-Summary Here
+[`📲 Available on the App Store`](https://apps.apple.com/us/app/roar-social/id1596602282)
+<br> Native iOS Application for Regional Bank (Paraguay). Enables users to do wire transfers, manage their loans and pay for goods.
  
 **Tech Used**
 - 📱 UIKit (iOS)
@@ -58,8 +74,8 @@ Summary Here
 - 🎨 Programmatically Created Interface
 
 ## Sudameris Bank
-
-Yet another iOS Mobile Banking Application.
+[`📲 Available on the App Store`](https://apps.apple.com/es/app/sudameris/id1505769071)
+<br> iOS Application for Sudameris Bank (Paraguay). Enables users to do wire transfers, manage their loans and pay for goods.
 
 **Tech Used**
 - 📱 RxSwift (Reactive Programming)
@@ -70,7 +86,13 @@ Yet another iOS Mobile Banking Application.
 
 ## SIMPLe Bipolar
 
-The SIMPLe project focuses on harnessing the potential of mobile devices for monitoring individuals diagnosed with bipolar disorder. It introduces a user-friendly mobile application, developed collaboratively with both patients and specialists, aimed at continuous mood tracking and delivery of personalized psychoeducational messages to enhance stability.
+The SIMPLe project focuses on harnessing the potential of mobile devices for monitoring individuals diagnosed with bipolar disorder. It introduces a user-friendly mobile application, developed collaboratively with both patients and specialists, aimed at continuous mood tracking and delivery of personalized psychoeducational messages to enhance stability. [Link](https://simplebipolarproject.org/) to the project page
+
+<p align="center">
+<img src="https://github.com/nessv/Portfolio/assets/28272898/f8f9aaad-558a-4271-ab6f-dc745948803a" width="200"/>
+<img src="https://github.com/nessv/Portfolio/assets/28272898/95d0ab3f-62d2-4888-822c-b7f473cc7ca3" width="200"/>
+<img src="https://github.com/nessv/Portfolio/assets/28272898/e69a7384-de0f-4769-ab9a-c33dc52c85fd" width="200"/>
+</p>
 
 **Tech Used**
 - 📱 UIKit (iOS)
