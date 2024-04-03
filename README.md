@@ -28,7 +28,7 @@
 
 ## Eko
 [`📲 Available on the App Store`](https://apps.apple.com/bo/app/eko-paraguay/id1545426761)
-<br>This app has been a passion project of mine over the past couple years. Magic Budget is a Disney Parks budget planning app. Me and my husband absolutely love going to the parks but we always find ourselves coming over budget (too many churros). I built this app to help solve this problem! I found the estimated price for many of the popular items in the parks so users can quickly budget for what they might buy on their trip. 
+<br>An application built in Flutter for a Digital Bank Startup
 
 <p align="center">
 <img src="https://github.com/nessv/Portfolio/assets/28272898/6bf4480e-0e7e-4d1a-86a0-308d0d5571b4" width="200"/>
